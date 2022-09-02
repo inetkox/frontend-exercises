@@ -1,0 +1,25 @@
+{
+  "name": "frontend-exercises",
+  "version": "1.0.0",
+  "description": "* [Order form](order-form/)\r  * ...more to come. contribute your own!",
+  "scripts": {
+    "1": "live-server C:/Users/mszc2/Desktop/UI/frontend-exercises/order-form/index.html",
+    "precommit": "pretty-quick --staged --verbose",
+    "serve": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inetkox/frontend-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inetkox/frontend-exercises/issues"
+  },
+  "devDependencies": {
+    "live-server": "^1.1.0",
+    "prettier": "^1.14.2",
+    "pretty-quick": "^1.6.0"
+  },
+  "homepage": "https://github.com/inetkox/frontend-exercises#readme"
+}
